@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom"
+import { Link } from 'react-router-dom'
 
 const Public = () => {
     const content = (
@@ -25,5 +25,4 @@ const Public = () => {
     )
     return content
 }
-
 export default Public
